@@ -1,16 +1,27 @@
-## Hi there 👋
+# Alisher Yusufov
 
-<!--
-**alisheryusufov/alisheryusufov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Researcher | Machine Learning & Medical Imaging**
 
-Here are some ideas to get you started:
+My projects explore deep learning for medical image classification and segmentation, with an emphasis on understanding model behavior and evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### [3D Liver Tumor Segmentation](https://github.com/alisheryusufov/3d-Liver-tumor-segmantation)
+
+A 3D U-Net pipeline for liver and tumor segmentation in CT volumes using PyTorch, TorchIO and PyTorch Lightning. Includes patch-based training and prediction visualizations.
+
+### [Pneumonia Classification from Chest X-rays](https://github.com/alisheryusufov/Pneumonia-xray-classification)
+
+Binary chest X-ray classification using a modified ResNet-18, with validation metrics, prediction visualizations and Grad-CAM analysis.
+
+### [Maze CLI](https://github.com/alisheryusufov/maze-cli)
+
+A C++ implementation of maze generation and solving using depth-first and breadth-first search.
+
+## Tools used in these projects
+
+Python · PyTorch · PyTorch Lightning · TorchIO · Jupyter · C++ · CMake
+
+---
+
+Medical-imaging projects are for research and learning, not clinical use.
